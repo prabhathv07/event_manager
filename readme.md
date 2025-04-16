@@ -53,6 +53,4 @@ During this assignment, I:
 - [x] README updated with coverage, test, and reflection sections.
 - [x] All issues/PRs documented and merged.
 
-<!-- Triggering GitHub Actions workflow run for CI verification process -->
-
 ---
